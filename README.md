@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Kavitha-U/chat_app-html-css-js.git
+git clone https://github.com/Kavitha/chat_app-html-css-js.git
 cd chat-app-html-css-js
 Open the project:
 
