@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/chat-app-html-css-js.git
+git clone https://github.com/Kavitha-U/chat_app-html-css-js.git
 cd chat-app-html-css-js
 Open the project:
 
@@ -63,4 +63,4 @@ Contact
 If you have any questions or suggestions, feel free to reach out:
 
 Name: Kavitha U
-Email: kavitha123@gmail.com
+Email: kavithautham123@gmail.com
